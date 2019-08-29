@@ -1,0 +1,27 @@
+Day 1
+
+Player_No	Player_Name		Batch_No	Game1_Score	Game2_Time(Sec.)
+
+1001		Pramod Dinal		IT-K20		42		42
+1002		Sahan Navod		BM-K11		65		28
+1003		Kaushani Dilinika	BM-K12		69		49
+1004		Fathima Sahana		QS-K14		73		43
+1005		Mohamed Askeen		IT-K21		65		35
+1006		Izzath Ali		IT-K28		40		31
+1007		Hilmy Hameed		QS-K15		79		39
+1012		Tharindu Samarakkodi	ENG-K2		56		32
+1014		Samuditha Dilshan	IT-K21		62		32
+1015		Arshad Mohammed		BM-K12		71		30
+
+Day 2
+
+Player_No	Player_Name		Batch_No	Game1_Score	Game2_Time(Sec.)
+
+1020		Tharuka Samarasinghe	BM-K15		48		40
+1021		Moorthy Sanjeevan	IT-K30		69		35
+1022		Sathyawelu Sadushan	IT-K26		75		33
+1023		Tharindu Dilshan	ENG-K2		70		27
+1024		Pabasara Nayananda	QS-K12		62		36
+1025		Damith Chathuranga	QS-K17		40		42
+1026		Arif Ishan		IT-K26		45		39
+1028		Noor Rafeen		BM-K13		50		33

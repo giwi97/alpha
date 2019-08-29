@@ -1,0 +1,11 @@
+Player_NO	Player_Name			Batch_No	Game1_Score	Game2_Time (Sec.)
+1001		Pramod Dinal		IT-K20		42			42
+1002		Sahan Navod			BM-K11		65			28
+1003		Kaushani Dilinika	BM-K12		69			49
+1004		Fathima Sahana		QS-K14		73			43
+1005		Mohamed Askeen		IT-K21		65			35
+1006		Izzath Ali			IT-K28		40			31
+1007		Hilmy Hameed		QS-K15		79			39
+1012		Tharindu			ENG-K2		56			32
+1014		Samuditha Dilshan	IT-K21		62			32
+1015		Arshad Mohammed		BM-K12		71			30
